@@ -1,4 +1,9 @@
 # Hello
+While my live, completed projects are on my portfolio website, I'll link below anything that I'm currently working on.
 ---
-You could probably do with being somewhere more useful, so here are a few links you might want to head to:
 
+## Websites
+Bromsgrove Body Repairs – www.cameronspixels.github.io/BBR/
+
+## Projects
+Responsive Photography Grids – www.cameronspixels.github.io/photo--grids/
