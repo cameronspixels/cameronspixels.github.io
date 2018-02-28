@@ -3,7 +3,7 @@ While my live, completed projects are on my portfolio website, I'll link below a
 ---
 
 ## Websites
-Bromsgrove Body Repairs – cameronspixels.github.io/BBR/
+[cameronspixels.github.io/BBR/]Bromsgrove Body Repairs
 
 ## Projects
-Responsive Photography Grids – caameronspixels.github.io/photo--grids/
+[cameronspixels.github.io/photo--grids/]Responsive Photography Grids
