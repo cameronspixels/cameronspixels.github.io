@@ -1,6 +1,6 @@
 # Hello
 
-While my live, completed projects are on my portfolio website, I'll link below anything that I'm currently working on.
+Find lined below any websites or projects that I'm currently working on. Once finished and made live, they can be found on www.cameronspixels.co.uk.
 
 ---
 
