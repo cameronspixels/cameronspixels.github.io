@@ -12,4 +12,4 @@ In an almost final state, I'm working with the client and another developer to r
 ## Projects
 [Responsive Photography Grids](https://cameronspixels.github.io/photo--grids)
 
-A stock photography portfolio developed using responsive CSS grids. Try it at different widths!
+An example stock photography portfolio developed using responsive CSS grids. Try it at different widths!
