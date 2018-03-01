@@ -1,5 +1,3 @@
-## Hello
-
 Find linked below any websites or projects that I'm currently working on. Once finished and made live, they can be found on www.cameronspixels.co.uk.
 
 ---
