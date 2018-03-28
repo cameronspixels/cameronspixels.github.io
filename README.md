@@ -2,12 +2,13 @@ Find linked below any websites or projects that I'm currently working on. Once f
 
 ---
 
-## Websites
-[Bromsgrove Body Repairs](https://cameronspixels.github.io/BBR)
-
-* In an almost final state, I'm working with the client and another developer to ready the site for launch.
-
 ## Projects
-[Responsive Photography Grids](https://cameronspixels.github.io/photo--grids)
+These are mock websites which are largely fun projects, ensuring that I've always got something a little different to do. I'll come back and add something to one or the other when I get an itch for developing.
 
-* An example stock photography portfolio developed using responsive CSS grids. Try it at different widths!
+[Spark Manchester](https://cameronspixels.github.io/sparkmanchester)
+
+* A mock website for a Manchester-based web agency.
+
+[A Barber Shop](https://cameronspixels.github.io/barbur)
+
+* A mock website for a barber shop.
